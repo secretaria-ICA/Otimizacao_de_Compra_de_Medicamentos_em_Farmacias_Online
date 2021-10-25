@@ -59,7 +59,7 @@ Para avaliação dos resultados obtidos, foi elaborada uma simulação de compra
 
 ![Não otimizado](naootimizado.PNG)
 
-Os resultados encontrados permitiram uma economia que chegou próxima a 10% para um prazo de 6 meses de planejamentos otimizado de compras em comparação à compra mensal não otimizada. 
+Os resultados encontrados permitiram uma economia que chegou próxima a 10% para um prazo de 6 meses de planejamento otimizado de compras em comparação à compra mensal não otimizada. 
 
 ![Comparativo](comparativo.PNG)
 
