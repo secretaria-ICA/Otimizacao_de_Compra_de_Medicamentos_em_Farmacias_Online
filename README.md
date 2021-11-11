@@ -1,4 +1,4 @@
-# Otimização de Compra de Medicamentos em Farmácias Online
+# Otimização_de_Compra_de_Medicamentos_em_Farmácias_Online
 
 #### Aluno: [Leticia Bacoccoli](https://github.com/leticiabac)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)
